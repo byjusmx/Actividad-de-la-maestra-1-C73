@@ -1,2 +1,2 @@
-# e-library-c73-boiler-plate
-added handle transaction and eligibility function
+# c73-boiler-plate-biblioteca-digital
+Se agregó la función de control de transacciones y elegibilidad.
